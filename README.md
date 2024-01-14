@@ -1,15 +1,15 @@
 # Digit Recognition Project
-This project utilizes TensorFlow and Tkinter to create a simple digit recognition application. The model is trained on the MNIST dataset for recognizing handwritten digits.
+This project utilizes TensorFlow and Tkinter to create a simple digit recognition application. The model is trained on the [MNIST](https://www.tensorflow.org/datasets/catalog/mnist) dataset for recognizing handwritten digits.
 
 ## Getting Started
 ### Prerequisites
 Make sure you have the following packages installed:
 
-- TensorFlow
-- NumPy
-- Tkinter
-- OpenCV (cv2)
-- Pillow (PIL)
+- [TensorFlow](https://pypi.org/project/tensorflow/)
+- [NumPy](https://pypi.org/project/numpy/)
+- [Tkinter](https://docs.python.org/3/library/tkinter.html)
+- [OpenCV (cv2)](https://pypi.org/project/opencv-python/)
+- [Pillow (PIL)](https://pypi.org/project/pillow/)
 
 You can install the required packages using the following commands:
 ```bash
@@ -23,7 +23,7 @@ pip install tensorflow numpy opencv-python Pillow
 ## Running the Application
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/digit-recognition.git cd digit-recognition
+git clone https://github.com/X4Lo/digit-recognition.git cd digit-recognition
 ```
 
 2. Run the main application:
@@ -49,4 +49,4 @@ The trained model will be saved as `mnist_model.model`.
 Feel free to explore and enhance the project as needed and happy coding!
 
 ---
-**X4Lo**
+**[X4Lo](https://github.com/X4Lo)**
